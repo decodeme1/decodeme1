@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">Since 2018 causing null pointer and forgetting console.log() but never in production 😂</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
