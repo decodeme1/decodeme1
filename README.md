@@ -12,8 +12,5 @@
 
 </br>
 </br>
-</br>
-</br>
-
 
 <img src="https://leetcode-status.vercel.app/api/card/nbjoao?theme=dark&layout=card&border=false&hide_title=false&logo=true&logo_color=theme&animation=false&animation_duration=2s&show_stats=false&font=Source+Sans+Pro" alt="LeetCode Stats"/>
